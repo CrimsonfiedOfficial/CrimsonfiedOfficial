@@ -4,14 +4,14 @@
 
 # Security Researcher · C++ · Low-Level Systems
 
-**I break things on purpose so they can be fixed — or understood.**
+**I break things on purpose so they can be fixed (or understood).**
 
 Reverse engineering, protocol exploitation, and native tooling across **physical security**, **embedded devices**, and **game environments**.
 
 [![Dahua Research](https://img.shields.io/badge/focus-Dahua_Research-red?style=for-the-badge)](https://github.com)
 [![C++](https://img.shields.io/badge/C++-20-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Qt](https://img.shields.io/badge/Qt-6.7-41cd52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
-[![Python](https://img.shields.io/badge/Python-3-tools-yellow?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png)](https://www.python.org/)
 
 </div>
 
