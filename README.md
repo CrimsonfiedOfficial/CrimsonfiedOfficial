@@ -24,7 +24,7 @@ My primary research lane is **Dahua Technology**: P2P cloud tunnels, digest auth
 
 Outside surveillance gear, I spend time in **game security** — memory internals, injection surfaces, anti-cheat evasion theory, and the kind of low-level Windows/Linux work that translates directly between domains. Same skills, different binaries.
 
-> Authorized testing and responsible disclosure only. Everything public is education, defense, or tooling — not a shopping list for script kiddies.
+> Authorized testing and responsible disclosure only. Everything public is education, defense, or tooling.
 
 ---
 
