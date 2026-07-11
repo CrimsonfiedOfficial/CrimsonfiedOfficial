@@ -195,13 +195,5 @@ Telegram: @nicotine_feind
 
 ---
 
-<div align="center">
-
-```cpp
-// typical Tuesday
-auto tunnel = P2PClient::connectCamera(serial);
-if (!tunnel) return exploit_surface_not_exhausted_yet;
-// ...understand the box, then decide what to report
-```
 
 </div>
