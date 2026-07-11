@@ -1,4 +1,3 @@
-<!-- Copy this file to your GitHub profile repo: github.com/<username>/<username>/README.md -->
 
 <div align="center">
 
@@ -34,7 +33,7 @@ Outside surveillance gear, I spend time in **game security**, internals, injecti
 <tr>
 <td width="50%" valign="top">
 
-### Dahua / Physical Security
+### Dahua
 
 - P2P protocol RE (`Easy4IP`, PTCP relay, WSSE auth)
 - Unauthenticated & authenticated attack surface mapping
@@ -86,9 +85,9 @@ Outside surveillance gear, I spend time in **game security**, internals, injecti
 
 ## Featured Work
 
-### [DHView](https://github.com) — Dahua Camera Management (C++ / Qt6)
+### DHView (not released yet) — Dahua Camera Management (C++ / Qt6)
 
-A native desktop platform for managing Dahua estates — not a wrapper around someone else's VMS.
+A native desktop platform for managing Dahua cameras
 
 ```
 Live view · P2P cloud connect · PTZ · Playback · Two-way audio
@@ -104,13 +103,11 @@ Tunnel TCP proxy · SDK integration · Connection workers
 | Media | SDK video sink, optional Qt Multimedia talk path |
 | Data | SQLite repositories, device statistics |
 
-Built because understanding a protocol means **implementing it**, not screenshotting someone else's tool.
-
 ---
 
 ### CVE Research & Advisories
 
-Long-form, defender-oriented writeups — not NVD copy-paste.
+Long form, defender oriented writeups, not NVD copypaste.
 
 | CVE | Severity | Topic |
 |---|---|---|
