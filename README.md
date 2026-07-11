@@ -170,7 +170,7 @@ Build         MSVC 2019 · Ninja · Qt Maintenance Tool
 
 8. Music, code, and security are all the same process:
    understand the structure, then create something new
-
+```
 ---
 
 ## Current Focus
