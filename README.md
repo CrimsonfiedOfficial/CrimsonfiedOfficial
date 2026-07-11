@@ -176,23 +176,22 @@ Build         MSVC 2019 · Ninja · Qt Maintenance Tool
 
 ## Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub handle -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=crimsonfiedofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=crimsonfiedofficial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 ---
 
 ## Connect
 
-<!-- Fill in your links -->
+Telegram: @nicotine_feind
 
 | | |
 |---|---|
-| **GitHub** | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
+| **GitHub** | [@CrimsonfiedOfficial(https://github.com/CrimsonfiedOfficial) |
 | **Research** | Dahua P2P · CVE advisories · native tooling |
-| **DMs** | Open for collab on RE, CVE validation, or C++ architecture — not for illegal access |
+| **DMs** | Open for collab on RE, CVE validation, or C++ architecture - not for illegal access |
 
 ---
 
@@ -204,7 +203,5 @@ auto tunnel = P2PClient::connectCamera(serial);
 if (!tunnel) return exploit_surface_not_exhausted_yet;
 // ...understand the box, then decide what to report
 ```
-
-*Low-level by choice. Detailed by default.*
 
 </div>
