@@ -18,11 +18,11 @@ Reverse engineering, protocol exploitation, and native tooling across **physical
 
 ## About
 
-I work at the intersection of **offensive security research** and **systems programming** — taking apart black-box protocols, mapping attack surfaces, and shipping real tools in **C++**, not just writeups.
+I work at the intersection of **offensive security research** and **systems programming**, taking apart black box protocols, mapping attack surfaces, and shipping real tools in **C++**, not just writeups.
 
 My primary research lane is **Dahua Technology**: P2P cloud tunnels, digest auth, two-way audio paths, serial validation, firmware-era CVEs, and enterprise software like EIMS. I document what I find, build reproducible test harnesses, and write the kind of advisory material defenders actually need.
 
-Outside surveillance gear, I spend time in **game security** — memory internals, injection surfaces, anti-cheat evasion theory, and the kind of low-level Windows/Linux work that translates directly between domains. Same skills, different binaries.
+Outside surveillance gear, I spend time in **game security**, internals, injection surfaces, anticheat evasion. 
 
 > Authorized testing and responsible disclosure only. Everything public is education, defense, or tooling.
 
@@ -150,17 +150,26 @@ Build         MSVC 2019 · Ninja · Qt Maintenance Tool
 ```
 
 ---
-
 ## How I Think
 
 ```text
-1. Read the wire format before reading the blog post
-2. If the vendor says "XSS" but CVSS says availability-only — trust the math
-3. Unauthenticated beats authenticated; RCE beats reboot; reboot still matters
-4. A protocol isn't understood until your client connects without their SDK
-5. Game AC and camera firmware both lie about how much they validate input
-6. Document for the blue team, build for yourself
-```
+1. goon
+
+2. Read the source, protocol, and data formats before trusting the abstraction layer
+
+3. If something connects to the internet, assume the edge cases matter
+
+4. A library isn't truly understood until I can recreate the important parts myself
+
+5. Games, cameras, servers, and apps all have the same weakness:
+   input goes in, assumptions come out
+
+6. Debugging is just reverse engineering with better lighting
+
+7. Document what I learn so others can build on it
+
+8. Music, code, and security are all the same process:
+   understand the structure, then create something new
 
 ---
 
@@ -171,15 +180,6 @@ Build         MSVC 2019 · Ninja · Qt Maintenance Tool
 - [ ] Correlating **serial-prefix pools** with exploitable talk firmware branches
 - [ ] Native **C++** performance passes on tunnel and video hot paths
 - [ ] Game security — internal RE tooling and anti-cheat surface documentation
-
----
-
-## Stats
-
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=crimsonfiedofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=crimsonfiedofficial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 ---
 
