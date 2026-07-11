@@ -189,7 +189,7 @@ Telegram: @nicotine_feind
 
 | | |
 |---|---|
-| **GitHub** | [@CrimsonfiedOfficial(https://github.com/CrimsonfiedOfficial) |
+| **GitHub** | [@CrimsonfiedOfficial](https://github.com/CrimsonfiedOfficial) |
 | **Research** | Dahua P2P · CVE advisories · native tooling |
 | **DMs** | Open for collab on RE, CVE validation, or C++ architecture - not for illegal access |
 
