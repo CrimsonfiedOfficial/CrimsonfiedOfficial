@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Security Researcher · C++ · Low-Level Systems
+# Security Researcher · C++ 
 
 **I break things on purpose so they can be fixed (or understood).**
 
